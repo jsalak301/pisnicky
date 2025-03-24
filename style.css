@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: Times, Gorgia;
+}
+.nadpis{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(72, 178, 240);
+}
+.nadpis:hover{
+    background-color: grey;
+}
